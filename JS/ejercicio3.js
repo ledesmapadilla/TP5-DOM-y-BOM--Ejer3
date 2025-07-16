@@ -30,7 +30,7 @@ const cargarTarea = (e) => {
   }); */
 };
 
-/* borrar tarea */
+
 
 const formulario = document.querySelector(".w-50");
 console.log(formulario);
